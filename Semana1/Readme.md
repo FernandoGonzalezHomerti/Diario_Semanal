@@ -25,10 +25,12 @@ personalizacion, variables de entorno...
 Comida -> 30min
 Comprendiendo el proyecto de intranet.vacalia más al completo.
 Toqueteando back y front de laravel y vue.
+Primera tarea asignada:
+CRUD en front y back de la tabla "CAMPANYA", nueva seccion
+en intranet.vacalia
 -> 8:30h
 
 - Día 5 (Viernes):
-08:00am - 14:00pm.
+08:30am - 16:00pm.
 Comida -> 30min
-Tarea 1 -> 2:15h
-Tarea 2 -> 2:15h
+CRUD seccion CAMPANYA -> 7h
