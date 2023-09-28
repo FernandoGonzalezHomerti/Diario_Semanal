@@ -13,13 +13,19 @@ Curso inicial introductorio en la empresa, revisando proyecto "intranet.vacalia"
 - Día 3 (Miércoles):
 08:00am - 17:00pm.
 Comida -> 30min
-Día de curso inicial introductorio en la empresa. -> 8:30h
+Comprendiendo el proyecto de intranet.vacalia más a fondo.
+Toqueteando back y front de laravel y vue.
+Testeando optimizaciones, test, debug, cachés en el proyecto vacalia intranet...
+Repaso de la instalación de mi sistema windows, updates, reglas de users,
+personalizacion, variables de entorno...
+-> 8:30h
 
 - Día 4 (Jueves):
 08:00am - 17:00pm.
 Comida -> 30min
-Tarea 1 -> 4:15h
-Tarea 2 -> 4:15h
+Comprendiendo el proyecto de intranet.vacalia más al completo.
+Toqueteando back y front de laravel y vue.
+-> 8:30h
 
 - Día 5 (Viernes):
 08:00am - 14:00pm.
