@@ -33,4 +33,6 @@ en intranet.vacalia
 - Día 5 (Viernes):
 08:30am - 16:00pm.
 Comida -> 30min
-CRUD seccion CAMPANYA -> 7h
+Siguiendo la primera tarea de CRUD en front y back de la tabla "CAMPANYA", nueva seccion en intranet.vacalia
+(tocando Vue y Laravel en un mismo proyecto)
+-> 7h
