@@ -16,3 +16,4 @@ Día de curso inicial introductorio en la empresa, instalación de programas y s
 - Día 2 (Martes):
 Siguiendo la primera tarea de CRUD en front y back de la tabla "CAMPANYA", nueva seccion en intranet.vacalia
 (tocando Vue y Laravel en un mismo proyecto). Terminando subida de imágenes en servidor con FTP de una por cada idioma y tipo.
+Acabado, tocando mucho laravel controller con Image and Database, para subida de imagenes, funcionando correctamente al dinal del día.
