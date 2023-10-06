@@ -44,3 +44,4 @@ Terminada la tarea: Filtro en el modal de add edit por idiomas y que solo salgan
 Comenzada la tarea también en intranet vacalia de editar la sección "PROMOCIONES" para que tenga el select de radios de casas, que los recupere, edite y haga delete de los campos que tocan en la bdd, además, se ha de linkear "CAMPAIGNS" que creé con "PROMOCIONES" mediante un linkeo y añadir un atributo isActive a la campaña.
 
 - Día 5 (Viernes):
+Continuando la tarea también en intranet vacalia de editar la sección "PROMOCIONES" para que tenga el select de radios de casas, que los recupere, edite y haga delete de los campos que tocan en la bdd, además, se ha de linkear "CAMPAIGNS" que creé con "PROMOCIONES" mediante un linkeo y añadir un atributo isActive a la campaña.
