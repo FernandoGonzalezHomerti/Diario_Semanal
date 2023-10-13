@@ -2,6 +2,7 @@
 
 - Día 1 (Lunes):
 08:00am - 17:00pm.
+Comida -> 30min
 Completada tarea crud campaña y subida de imagenes, falta
 hacer subida de imagen en type: card, footer y lateral por cada idioma
 (16 imagenes = 4x4 idiomas).
@@ -10,16 +11,21 @@ hacer subida de imagen en type: card, footer y lateral por cada idioma
 y en vue sobretodo tocando directivas, templates, componentes,
 añadiendo imagenes y carga dinamica bindeada.
 
-    Comida -> 30min
-Día de curso inicial introductorio en la empresa, instalación de programas y setup. -> 8:30h
+    Día de curso inicial introductorio en la empresa, instalación de programas y setup. -> 8:30h
 
 - Día 2 (Martes):
-Siguiendo la primera tarea de CRUD en front y back de la tabla "CAMPANYA", nueva seccion en intranet.vacalia
+08:00am - 17:00pm.
+Comida -> 30min
+
+    Siguiendo la primera tarea de CRUD en front y back de la tabla "CAMPANYA", nueva seccion en intranet.vacalia
 (tocando Vue y Laravel en un mismo proyecto). Terminando subida de imágenes en servidor con FTP de una por cada idioma y tipo.
 Acabado, tocando mucho laravel controller con Image and Database, para subida de imagenes, funcionando correctamente al dinal del día.
 
 - Día 3 (Miércoles):
-Acabada la tarea de CRUD en front y back de la tabla "CAMPANYA", nueva seccion en intranet, y revisándola en producción.
+08:00am - 17:00pm.
+Comida -> 30min
+
+    Acabada la tarea de CRUD en front y back de la tabla "CAMPANYA", nueva seccion en intranet, y revisándola en producción.
 Tocando mucho laravel controller con Image and Database, para subida de imagenes, funcionando correctamente al dinal del día.
 
     *NUEVAS TAREAS (mejorar la tarea anterior):*
@@ -39,9 +45,15 @@ Tocando mucho laravel controller con Image and Database, para subida de imagenes
         -PENDIENTE: Filtro en el modal de add edit por idiomas y que solo salgan los campos del idioma.
 
 - Día 4 (Jueves):
-Terminada la tarea: Filtro en el modal de add edit por idiomas y que solo salgan los campos del idioma.
+08:00am - 17:00pm.
+Comida -> 30min
 
-Comenzada la tarea también en intranet vacalia de editar la sección "PROMOCIONES" para que tenga el select de radios de casas, que los recupere, edite y haga delete de los campos que tocan en la bdd, además, se ha de linkear "CAMPAIGNS" que creé con "PROMOCIONES" mediante un linkeo y añadir un atributo isActive a la campaña.
+    Terminada la tarea: Filtro en el modal de add edit por idiomas y que solo salgan los campos del idioma.
+
+    Comenzada la tarea también en intranet vacalia de editar la sección "PROMOCIONES" para que tenga el select de radios de casas, que los recupere, edite y haga delete de los campos que tocan en la bdd, además, se ha de linkear "CAMPAIGNS" que creé con "PROMOCIONES" mediante un linkeo y añadir un atributo isActive a la campaña.
 
 - Día 5 (Viernes):
-Continuando la tarea también en intranet vacalia de editar la sección "PROMOCIONES" para que tenga el select de radios de casas, que los recupere, edite y haga delete de los campos que tocan en la bdd, además, se ha de linkear "CAMPAIGNS" que creé con "PROMOCIONES" mediante un linkeo y añadir un atributo isActive a la campaña.
+08:00am - 17:00pm.
+Comida -> 30min
+
+    Continuando la tarea también en intranet vacalia de editar la sección "PROMOCIONES" para que tenga el select de radios de casas, que los recupere, edite y haga delete de los campos que tocan en la bdd, además, se ha de linkear "CAMPAIGNS" que creé con "PROMOCIONES" mediante un linkeo y añadir un atributo isActive a la campaña.
