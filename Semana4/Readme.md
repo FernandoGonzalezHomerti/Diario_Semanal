@@ -10,21 +10,21 @@ Comida -> 30min
 08:30am - 17:00pm.
 Comida -> 30min
 
-    Desarrollo del proyecto web Aura de Mallorca, desarrollo de la funcionalidad Reservas.
+    Desarrollo del proyecto web Aura de Mallorca, desarrollo de la funcionalidad Reservas, terminando la funcionalidad en frontend, todos los steps del modal terminados, falta enviar datos y la funcionalidad del backend de realizar la reserva con todas las tablas ligadas al momento de la creación.
 
 - Día 3 (Miércoles):
 08:30am - 17:00pm.
 Comida -> 30min
 
-    Desarrollo del proyecto web Aura de Mallorca, desarrollo de la funcionalidad Reservas.
+    Desarrollo del proyecto web Aura de Mallorca, desarrollo de la funcionalidad Reservas, terminando la funcionalidad en frontend, todos los steps del modal terminados, falta enviar datos y la funcionalidad del backend de realizar la reserva con todas las tablas ligadas al momento de la creación.
 
 - Día 4 (Jueves):
 Comida -> 30min
 
-    Desarrollo del proyecto web Aura de Mallorca, desarrollo de la funcionalidad Reservas.
+    Desarrollo del proyecto web Aura de Mallorca, desarrollo de la funcionalidad Reservas, terminando la funcionalidad en frontend, todos los steps del modal terminados, falta enviar datos y la funcionalidad del backend de realizar la reserva con todas las tablas ligadas al momento de la creación.
 
 - Día 5 (Viernes):
 08:30am - 16:00pm.
 Comida -> 30min
 
-   Desarrollo del proyecto web Aura de Mallorca, desarrollo de la funcionalidad Reservas.
+    Desarrollo del proyecto web Aura de Mallorca, desarrollo de la funcionalidad Reservas, terminando la funcionalidad en frontend, todos los steps del modal terminados, falta enviar datos y la funcionalidad del backend de realizar la reserva con todas las tablas ligadas al momento de la creación.
