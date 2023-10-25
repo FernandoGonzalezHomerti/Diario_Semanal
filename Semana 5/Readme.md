@@ -18,7 +18,7 @@ Comida -> 30min
 08:30am - 17:00pm.
 Comida -> 30min
 
-    Desarrollo del proyecto web Aura de Mallorca, haciendo el payment y integracion con stripe que está en curso.
+    Desarrollo del proyecto web Aura de Mallorca: gran refactorización de servicios de api extrayéndolos en un folder services/ para importarlos para su consumo, además de arreglos en react calendar validación y styling, y implementado la subida de imágenes, concretamente actualizar el logo del usuario y refrescar su preview en subida al subirse y con un intervalo en el header recuperando la nueva foto de perfil.
 
 - Día 4 (Jueves):
 08:30am - 17:00pm.
