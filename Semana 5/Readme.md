@@ -30,4 +30,5 @@ Comida -> 30min
 08:30am - 17:00pm.
 Comida -> 30min
 
-    Desarrollo del proyecto web Aura de Mallorca, haciendo el payment y integracion con stripe que está en curso.
+    Desarrollo del CMS: arreglo de compatiblidad entre browsers con su css y scripts (brave especialmente), recuperar nombre también de la página en el dropdown de sections, insertar bien en section_literal fixed.
+    Desarrollo del proyecto web Aura de Mallorca, haciendo el payment y integracion con stripe (optimizada), funciona ya correctamente, pero hace el pago dos veces ya que a la primera da error pero se realiza la transacción. **MITAD HECHA**
