@@ -27,7 +27,7 @@ Comida -> 30min
     Desarrollo del proyecto web Aura de Mallorca, payment finalizado realizandose aunque con un bug de que se realiza dos veces, pendiente de arreglar. Principalmente desarrollando el sistema multiidioma del hotel con la librería i18next internationalization framework.
 
 - Día 5 (Viernes):
-08:30am - 17:00pm.
+08:30am - 16:00pm.
 Comida -> 30min
 
     Desarrollo del CMS: arreglo de compatiblidad entre browsers con su css y scripts (brave especialmente), recuperar nombre también de la página en el dropdown de sections, insertar bien en section_literal fixed.
