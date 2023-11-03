@@ -23,4 +23,4 @@ Comida -> 30min
 08:30am - 17:00pm.
 Comida -> 30min
 
-    Desarrollo del proyecto web Aura de Mallorca, puliendo.
+    Desarrollo del proyecto web Aura de Mallorca, puliendo. Desarrollo principal del CMS Gestor de Traducciones: rediseño de la página Home de inserción de literales, seleccionando páginas y secciones sin insertarlas si no existen, sólo insertando literales y con un código identificativo que no se repite además de el contenido del literal, y init de la página de administrar páginas (donde se editará los idiomas que tiene cada página y se enseñará una tabla con cada una de ellas y al clicar irá a una página de página singular donde se verá todas las sections solo padre de la página)
