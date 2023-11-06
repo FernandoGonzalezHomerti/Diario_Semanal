@@ -4,8 +4,9 @@
 08:30am - 17:00pm.
 Comida -> 30min
 
-    Desarrollo del CMS: Finalización del Gestor de Traducciones haciendo que se inserte las nuevas páginas y secciones (y sus relaciones con los literales e idiomas), haciéndolo ya completamente funcional y terminado en principio.
-    Desarrollo del proyecto web Aura de Mallorca, puliendo.
+    Arreglo de bug en Vacalia: campo isAllHouses de selección de Campañas en Intranet Vacalia, no recuperaba la información de las casas seleccionadas, a pesar que en insert y update lo hacía bien, además, cambio de multiselect al vue-multiselect.
+    Desarrollo del CMS: Estilización.
+    Desarrollo del proyecto web Aura de Mallorca, puliendo preparando para producción ajustando configuraciones en máquina virtual Debian 12 e instalando todo lo necesario (nodejs, mariadb, virtualhosts, ssl, htaccess, phpmyadmin, ssh...).
 
 - Día 2 (Martes):
 08:30am - 17:00pm.
