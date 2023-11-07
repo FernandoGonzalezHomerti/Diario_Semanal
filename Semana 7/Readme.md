@@ -12,6 +12,7 @@ Comida -> 30min
 08:30am - 17:00pm.
 Comida -> 30min
 
+    Intranet Vacalia: implementado el recuperar info de casas seleccionadas vue multiselect también en sección promociones y estilización de los tags del multiselect.
     Desarrollo del proyecto web Aura de Mallorca, puliendo.
 
 - Día 3 (Miércoles):
