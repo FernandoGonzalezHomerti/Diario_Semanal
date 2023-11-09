@@ -26,7 +26,7 @@ Comida -> 30min
 08:30am - 17:00pm.
 Comida -> 30min
 
-    Desarrollo del proyecto web Aura de Mallorca, puliendo.
+    Desarrollo del proyecto web Aura de Mallorca: despliegue completo en máquina virtual Debian con las configuraciones de Producción y arreglando errores de código de rutas, además de añadir SEO los robots.txt y sitemap. Elaborando documentación final haciendo el modelo relacional de la base de datos (finalizado), el diagrama de clases (diseño de la app en código, no la bdd).
 
 - Día 5 (Viernes):
 08:30am - 16:00pm.
