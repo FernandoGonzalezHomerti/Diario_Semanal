@@ -32,4 +32,4 @@ Comida -> 30min
 08:30am - 16:00pm.
 Comida -> 30min
 
-    Desarrollo del proyecto web Aura de Mallorca, puliendo.
+    CMS GESTOR DE TRADUCCIONES REFACTOR database literals remodelaje con code y page y section id dentro y creando constraint unique index en literal composed de columnas code y page id.
