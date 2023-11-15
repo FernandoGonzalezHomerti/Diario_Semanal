@@ -18,4 +18,6 @@ Comida -> 30min
 08:30am - 17:00pm.
 Comida -> 30min
 
-    Desarrollo del proyecto web Aura de Mallorca, puliendo.
+    Desarrollo del proyecto web Aura de Mallorca:
+    Update de las dependencias, fix del monto de pago y mostrando en cada paso cuánto va a pagar, correcta restauración del monto de pago en el booking modal cuando va para atrás, removidos los logs de color scheme en los sitios donde quedaban y ahora son usados para que no haya console logs, robots y sitemap updated.
+    CMS: fix en update literal y remove no needed app_page_lage table and model of the app.
