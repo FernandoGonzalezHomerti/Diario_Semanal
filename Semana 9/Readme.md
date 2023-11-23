@@ -25,7 +25,8 @@ Comida -> 30min
 08:30am - 17:00pm.
 Comida -> 30min
 
-    Desarrollo del proyecto web Aura de Mallorca, puliendo.
+    Integración en Intranet Vacalia de las traducciones del CMS propio: completadas todas las secciones excepto Nichos y POI.
+    Corrección y finalización de la documentación final del proyecto web del ciclo de fp web, y hecho la mitad del powerpoint de la presentación final.
 
 - Día 5 (Viernes):
 08:30am - 16:00pm.
