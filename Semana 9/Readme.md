@@ -32,4 +32,6 @@ Comida -> 30min
 08:30am - 16:00pm.
 Comida -> 30min
 
-    Desarrollo del proyecto web Aura de Mallorca, puliendo.
+    CMS: Arreglos -> Mover creacion de secciones a /pages y db fixes.
+    Intranet Vacalia: Migración completada de la integración de las traducciones recuperadas del CMS Gestor de Traducciones en todas las páginas.
+    Proyecto web Aura de Mallorca: testeando.
