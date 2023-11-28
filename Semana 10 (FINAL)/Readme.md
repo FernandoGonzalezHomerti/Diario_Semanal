@@ -10,7 +10,7 @@ Comida -> 30min
 08:30am - 17:00pm.
 Comida -> 30min
 
-    Desarrollo del proyecto web Aura de Mallorca, finalizando nuevas características.
+    Desarrollo del proyecto web Aura de Mallorca: implementación sistema de promociones con código antes de pagar (recompensa a las 5 reservas del usuario generando una promoción única para el usuario de un solo uso del 50% de descuento), y arreglo en db, backend y frontend.
 
 - Día 3 (Miércoles):
 08:30am - 17:00pm.
