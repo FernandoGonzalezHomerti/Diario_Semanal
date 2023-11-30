@@ -24,7 +24,9 @@ Comida -> 30min
 08:30am - 17:00pm.
 Comida -> 30min
 
-    Testeando Aura de Mallorca proyecto web.
+    Intranet Vacalia: Añadido selector de lenguajes cogiendo inicialmente el .env pero luego usando session, fixeando gitignores.
+    Translator: arreglo editar literales con lista filtrada, modificada tabla page para añadir dominio y apiKey para comunicación con páginas y llamada a ese dominio con una ruta estática a un archivo y enviando la apiKey cada que se inserta o edita un literal.
+    Aura de Mallorca proyecto web: chequeo de promos descontar el precio no al iniciar sino en el paso del booking que toca, arreglo no insertar usuarios default images, añadida libreria sweet alert para confirmacion de delete user, arreglos importantes en db.sql para deletes cascade, y chequeo doble en user punishment para cuando el admin lo reactiva, no lo vuelva a desactivar (doble check).
 
 - Día 5 (Viernes):
 08:30am - 17:00pm.
