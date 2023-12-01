@@ -32,7 +32,8 @@ Comida -> 30min
 08:30am - 17:00pm.
 Comida -> 30min
 
-    Testeando Aura de Mallorca proyecto web.
+    Aura de Mallorca proyecto web: arreglos, como toggle password visibility, acabado de implementar la funcionalidad de recuperar la cuenta con token temporal restableciendo la contraseña, optimización de código en error handling messages, fix i18next carga inicial json que no existia, removido el preload en el index.html no usado, optimizado el cambio de lenguaje en el handler del select de react.
+    Hecha la presentación final.
 
 **FIN**
 .
