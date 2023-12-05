@@ -10,7 +10,7 @@ Comida -> 30min
 08:30am - 17:00pm.
 Comida -> 30min
 
-    Últimas tareas de revisión y despedida.
+    Últimas tareas de revisión y despedida (update de las dependencias de Intranet Vacalia, TODAS, laravel mix a la ultima version y todo excepto de vue 2 a vue 3 y todas las dependencias que solo son compatibles con vue 2.)
 
 **FIN SEGURO**
 .
